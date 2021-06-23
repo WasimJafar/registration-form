@@ -1,12 +1,13 @@
-package com.sapient.movieBooking;
+package com.extramarks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieBookingApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MovieBookingApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
+
 }
